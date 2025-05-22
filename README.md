@@ -3,7 +3,7 @@ I developed a comprehensive dashboard, using excel data . This process involed s
 
 ## Project Objective 
 
-Converting HR data into  dashboard to analyze and track the business requirement,and to understand thier candidates data and grow the company.
+Converting HR data into  dashboard to analyze and track the business requirement, to understand thier candidates data and to grow the company.
 
 ## Data used
 https://in.docworkspace.com/d/sIEbC2LyhApWiu8EG
