@@ -9,10 +9,10 @@ Converting HR data into  dashboard to analyze and track the business requirement
 - <a href="https://in.docworkspace.com/d/sIEbC2LyhApWiu8EG">Hr data set</a>
 
 ## Questions(KIPs)
-1.How many people are in each job
-2.Gender break down of the staff
-3.Age spread of the staff
-4.Which job pays more
-5.Qualifucation Vs salary
-6.Staff growth over time
-7.Leave balance analysis
+- How many people are in each job
+- Gender break down of the staff
+- Age spread of the staff
+- Which job pays more
+- Qualifucation Vs salary
+- Staff growth over time
+- Leave balance analysis
