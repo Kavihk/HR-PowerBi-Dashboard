@@ -16,3 +16,20 @@ Converting HR data into  dashboard to analyze and track the business requirement
 - Qualifucation Vs salary
 - Staff growth over time
 - Leave balance analysis
+
+  ## Process
+- Created measure for headcount to get total employees
+- Did date formate in powerquery
+- Created measure for salary to get MIN and MAX salary
+- Applied conditional coluumn for qualifucation in power query
+- created a measure for leave balance
+- Applied a slicer to get dyanmic output on specific selection
+  
+ ## Dashboard
+ 
+
+
+
+
+
+  
