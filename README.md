@@ -26,7 +26,7 @@ Converting HR data into  dashboard to analyze and track the business requirement
 - Applied a slicer to get dyanmic output on specific selection
   
  ## Dashboard
- 
+ - <a href ="https://github.com/Kavihk/HR-PowerBi-Dashboard/blob/main/HR%20%20PowerBI%20Dashboard.png">HR dashboard</a>
 
 
 
