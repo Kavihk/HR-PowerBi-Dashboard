@@ -1,5 +1,5 @@
 # HR-PowerBi-Dashboard
-I developed a comprehensive dashboard, using excel data . This process involed serveral stages like, collecting data ,cleaning, storting and data visualization
+Developed a comprehensive HR dashboard, using excel data . This process involed serveral stages like, collecting data ,cleaning, storting and data visualization
 
 ## Project Objective 
 
